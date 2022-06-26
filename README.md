@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boypanjaitan16
 - 👀 I’m interested in .NET, Java, ReactJS, VueJS, NodeJS, NestJS, Laravel, DevOps, etc
 - 🌱 I’m currently learning Java and .NET
-- 📫 You can reach me by email on boypanjaitan16@yahoo.com
+- 📫 You can reach me by email on boypanjaitan16@yahoo.com or find more about me on my personal website [https://boypanjaitan.com](boypanjaitan.com)
 
 <!---
 boypanjaitan16/boypanjaitan16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
